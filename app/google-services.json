@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "375876367250",
+    "firebase_url": "https://quizzapp-c1b43.firebaseio.com",
+    "project_id": "quizzapp-c1b43",
+    "storage_bucket": "quizzapp-c1b43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375876367250:android:924ea7bc2ac3bb0e",
+        "android_client_info": {
+          "package_name": "com.studies.quizzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375876367250-428pq535uhf2rdp1evta8t26lt1evrts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studies.quizzapp",
+            "certificate_hash": "127ff4bc8be091bc96d7d14f195d934e32d14b4f"
+          }
+        },
+        {
+          "client_id": "375876367250-5c5uf2t1tocc1508edi403obinn9tl8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8DddGl7tMSsl6wQQFziYkJTL4zOQ9gR0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375876367250-5c5uf2t1tocc1508edi403obinn9tl8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
