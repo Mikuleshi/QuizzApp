@@ -5,4 +5,7 @@
     <string name="_3">3.</string>
     <string name="_4">4.</string>
     <string name="sign_out">sign out</string>
+    <string name="take_photo">take photo</string>
+    <string name="try_again">Try again</string>
+    <string name="tw_j_wynik_to">Twój wynik to:</string>
 </resources>
